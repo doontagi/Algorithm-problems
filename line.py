@@ -59,3 +59,4 @@ for _ in range(int(N2)):
     a=int(a)
     b=int(b)
     quest(a,b)
+   
