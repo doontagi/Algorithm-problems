@@ -82,3 +82,4 @@ for z in range(int(T)):
         print('#',end="");print(z+1,end=" ");print(-1)
     else:
         print('#',end="");print(z+1,end=" ");print(point[0])
+   
